@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://cryptids.life/categories/</loc>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://cryptids.life/posts/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://cryptids.life/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://cryptids.life/tags/</loc>
   </url>
   
   <url>
-    <loc>/posts/terms/</loc>
+    <loc>https://cryptids.life/posts/terms/</loc>
   </url>
   
   <url>
-    <loc>/posts/validator/</loc>
+    <loc>https://cryptids.life/posts/validator/</loc>
   </url>
   
 </urlset>
