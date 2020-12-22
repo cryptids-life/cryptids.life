@@ -1,5 +1,5 @@
 Title = "Cryptids.life"
-baseurl = "cryptids-life.github.io"
+baseurl = ""
 languageCode = "en-us"
 publishDir = "docs"
 theme = "dimension"

@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>cryptids-life.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>cryptids-life.github.io/posts/</loc>
+    <loc>/posts/</loc>
   </url>
   
   <url>
-    <loc>cryptids-life.github.io/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>cryptids-life.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>cryptids-life.github.io/posts/terms/</loc>
+    <loc>/posts/terms/</loc>
   </url>
   
   <url>
-    <loc>cryptids-life.github.io/posts/validator/</loc>
+    <loc>/posts/validator/</loc>
   </url>
   
 </urlset>
