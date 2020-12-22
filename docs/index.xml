@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cryptids.life on Cryptids.life</title>
+    <link>cryptids-life.github.io/</link>
+    <description>Recent content in cryptids.life on Cryptids.life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="cryptids-life.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terms</title>
+      <link>cryptids-life.github.io/posts/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>cryptids-life.github.io/posts/terms/</guid>
+      <description>Terms and conditions DISCLAIMER Users are solely responsible for any risks associated with usage of the Polkadot and Kusama network. Users should do their own research to determine if Polkadot and Kusama is the appropriate platform for their needs and should apply judgement and care in their network interactions.
+NOMINATION The Cryptids.life website provides a nomination service. Nominating is an operation applied on a distributed ledger by signing an operation. Nominating is not equivalent to transferring funds.</description>
+    </item>
+    
+    <item>
+      <title>Validator</title>
+      <link>cryptids-life.github.io/posts/validator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>cryptids-life.github.io/posts/validator/</guid>
+      <description>Cryptids.life act as a Polkadot and Kusama validators on a secure, highly available infrastructure.
+Polkadot See the Polkadot nominator guide.
+Cryptids.life Polkadot delegator addresses are:
+bla
+See it on Polkascan
+See it on Polkadot.js
+Kusama Follow the Kusama nominator guide.
+Cryptids.life Kusama delegator address is :
+bla
+See it on Polkascan
+See it on Polkadot.js</description>
+    </item>
+    
+  </channel>
+</rss>
