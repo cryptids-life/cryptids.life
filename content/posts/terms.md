@@ -35,7 +35,7 @@ Cryptids.life does not require or otherwise store personally identifiable inform
 
 ## PERFORMANCE AND PAYOUTS
 
-Cryptids.life strives to maintain high quality of service, however, due to the nature of the business, adverse events may occur which prevent proper operation of the service. Cryptids.life shall not be responsible for any adverse event, including but not limited to:
+Cryptids.life strives to maintain high quality of service, however, adverse events may occur which prevent proper operation of the service. Cryptids.life shall not be responsible for any adverse event, including but not limited to:
 
 * failure to synchronize with the [Polkadot](https://polkadot.network) and [Kusama](https://kusama.network/) networks
 * network partition
