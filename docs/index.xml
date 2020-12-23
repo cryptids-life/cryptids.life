@@ -23,16 +23,14 @@ NOMINATION The Cryptids.life website provides a nomination service. Nominating i
       
       <guid>https://cryptids.life/posts/validator/</guid>
       <description>Cryptids.life act as a Polkadot and Kusama validators on a secure, highly available infrastructure.
-Polkadot See the Polkadot nominator guide.
-Cryptids.life Polkadot delegator addresses are:
-bla
-See it on Polkascan
-See it on Polkadot.js
+Look for Cryptids.life validator in the Polkadot UI:
 Kusama Follow the Kusama nominator guide.
 Cryptids.life Kusama delegator address is :
-bla
+JDEgrmpP97qu8UoTjm2Ra8wJUrXFrunabsnyQ2bZRspf9r6
 See it on Polkascan
-See it on Polkadot.js</description>
+See it on Polkadot.js
+Polkadot  coming soon
+ </description>
     </item>
     
   </channel>

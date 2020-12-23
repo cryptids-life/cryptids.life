@@ -5,17 +5,9 @@ icon: "flag"
 
 Cryptids.life act as a [Polkadot](https://polkadot.network) and [Kusama](https://kusama.network/) validators on a secure, highly available infrastructure.
 
-## Polkadot
+Look for Cryptids.life validator in the Polkadot UI:
 
-See the [Polkadot nominator guide](https://wiki.polkadot.network/docs/en/maintain-nominator).
-
-Cryptids.life Polkadot delegator addresses are:
-
-`bla`
-
-[See it on Polkascan](https://polkascan.io/polkadot-cc1/account/xx)
-
-[See it on Polkadot.js](https://polkadot.js.org/apps/#/staking/query/xx)
+![cryptids](/images/ksm-stash.png)
 
 ## Kusama
 
@@ -23,8 +15,12 @@ Follow the [Kusama nominator guide](https://wiki.polkadot.network/docs/en/mirror
 
 Cryptids.life Kusama delegator address is :
 
-`bla`
+`JDEgrmpP97qu8UoTjm2Ra8wJUrXFrunabsnyQ2bZRspf9r6`
 
-[See it on Polkascan](https://polkascan.io/pre/kusama/account/bla)
+[See it on Polkascan](https://polkascan.io/pre/kusama/account/JDEgrmpP97qu8UoTjm2Ra8wJUrXFrunabsnyQ2bZRspf9r6)
 
-[See it on Polkadot.js](https://polkadot.js.org/apps/#/staking/query/bla)
+[See it on Polkadot.js](https://polkadot.js.org/apps/#/staking/query/JDEgrmpP97qu8UoTjm2Ra8wJUrXFrunabsnyQ2bZRspf9r6)
+
+## Polkadot
+
+> coming soon
